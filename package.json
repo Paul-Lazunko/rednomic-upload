@@ -1,0 +1,27 @@
+{
+  "name": "rednomic-upload",
+  "version": "1.0.0",
+  "description": "Upload middleware for rednomic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Lazunko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Lazunko/rednomic-upload.git"
+  },
+  "keywords": [
+    "rednomic",
+    "upload",
+    "files"
+  ],
+  "bugs": {
+    "url": "https://github.com/Paul-Lazunko/rednomic-upload/issues"
+  },
+  "homepage": "https://github.com/Paul-Lazunko/rednomic-upload#readme",
+  "dependencies": {
+    "parse-formdata": "^1.0.2"
+  }
+}
